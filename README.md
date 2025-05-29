@@ -2,7 +2,7 @@
 
 ## 📖 Project Description
 
-This project is a decentralized NFT marketplace built on Solidity using Hardhat. It allows users to mint NFTs, list them for sale, and receive automatic royalty distributions upon resale.
+This project is a decentralized NFT marketplace built on Solidity using Hardhat. It allows users to mint NFTs, list them for sale,  and receive automatic royalty distributions upon resale.
 
 ## 🌍 Project Vision
 
@@ -12,13 +12,13 @@ The vision  is to empower creators by ensuring they are fairly rewarded with roy
 
 - ERC721 NFT minting with metadata support
 - NFT listing and purchasing on-chain
-- Royalty distribution to creators
-- Marketplace fee for platform sustainability
+- Royalty distribution to  creators
+- Marketplace fee for  platform  sustainability
 - Core Testnet 2 deployment support
 
 ## 🚀 Future Scope
 
-- Add bidding mechanism for auctions
+- Add bidding mechanism for  auctions
 - Allow ERC20 payments
 - Metadata hosting on IPFS
 - Frontend DApp integration

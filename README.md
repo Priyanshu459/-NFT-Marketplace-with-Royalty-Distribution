@@ -5,7 +5,7 @@
 
 
 
-This project is a decentralized NFT marketplace built on Solidity using Hardhat. It allows users to mint NFTs, list them for sale,  and receive automatic royalty distributions upon resale.
+This project is a decentralized  NFT marketplace built on Solidity using Hardhat. It allows users to mint NFTs, list them for sale,  and receive automatic royalty distributions upon resale.
 
 
 

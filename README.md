@@ -7,11 +7,7 @@
 
 This project is a decentralized  NFT marketplace built on Solidity using Hardhat. It allows users to mint NFTs, list them for sale,  and receive automatic royalty distributions upon resale.
 
-
-
-
-
-## 🌍 Project Vision
+## 🌍 Project Visions
 
 The vision  is to empower creators by ensuring they are fairly rewarded with royalties for every resale of their digital assets, all while maintaining full transparency and decentralization.
 

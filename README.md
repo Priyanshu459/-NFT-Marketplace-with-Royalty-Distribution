@@ -17,7 +17,7 @@ The vision   is to empower creators by ensuring they are fairly rewarded with ro
 - NFT listing and purchasing on-chain
 - Royalty distribution to  creators
 - Marketplace fee for  platform  sustainability
-- Core Testnet 2 deployment support
+-Core  Testnet 2 deployment support
 
 🚀 Future Scope
 

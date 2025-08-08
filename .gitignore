@@ -8,7 +8,7 @@ cache/
 typechain-types/
 
 # IDE files
-.vscode/
+.vscode/ 
 .idea/
 *.iml
 *.swp

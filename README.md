@@ -19,7 +19,7 @@ The vision   is to empower creators by ensuring they are fairly rewarded with ro
 - Marketplace fee for  platform  sustainability
 -Core  Testnet 2 deployment support
 
-🚀 Future Scope
+🚀 Future scope
 
 - Add bidding mechanism for  auctions
 - Allow ERC20 payments

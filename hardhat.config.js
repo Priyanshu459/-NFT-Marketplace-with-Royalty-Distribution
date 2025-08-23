@@ -14,7 +14,7 @@ module.exports = {
       chainId: 1114,
     },
   },
-  paths: {
+  pathe : {
     artifacts : "./artifacts",
     cache: "./cache",
     sources: "./contracts",

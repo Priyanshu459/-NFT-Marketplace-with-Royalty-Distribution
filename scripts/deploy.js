@@ -12,7 +12,7 @@ async function main() {
   console.log("Contract deployed at:", contract.address);
 }
 
-main().catch((error) => {
+main() .catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });

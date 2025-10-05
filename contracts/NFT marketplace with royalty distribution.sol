@@ -70,6 +70,6 @@ contract NFTMarketplaceWithRoyalty is ERC721URIStorage, Ownable {
         _transfer(item.seller, msg.sender, tokenId);
         listings[tokenId].active = false;
         
-        emit Purchased(tokenId, msg. sender, item.seller, msg.value);
+        emit Purchased(tokenId, msg. sender , item.seller, msg.value);
     }
 } 
